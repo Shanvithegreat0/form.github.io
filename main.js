@@ -1,14 +1,14 @@
 // Initialize Firebase (ADD YOUR OWN DATA)
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyBxUfPkB9kq0CUyZW_jyUL_m2St9CFXCL8",
-  authDomain: "kisaansuvidha-2ac6f.firebaseapp.com",
-  databaseURL: "https://kisaansuvidha-2ac6f-default-rtdb.firebaseio.com",
-  projectId: "kisaansuvidha-2ac6f",
-  storageBucket: "kisaansuvidha-2ac6f.appspot.com",
-  messagingSenderId: "100049732802",
-  appId: "1:100049732802:web:0a7c248f1ce3cb5a49a75b",
-  measurementId: "G-LM542QTHSK"
+  apiKey: "AIzaSyAxkQl8XX-9dvBw8rq0hiyMCqMoZz5aRsU",
+  authDomain: "open-2db39.firebaseapp.com",
+  databaseURL: "https://open-2db39-default-rtdb.firebaseio.com",
+  projectId: "open-2db39",
+  storageBucket: "open-2db39.appspot.com",
+  messagingSenderId: "609600802056",
+  appId: "1:609600802056:web:ac05764ab8475ca412f0bd",
+  measurementId: "G-6ZFZTYQ6CQ"
 };
 firebase.initializeApp(firebaseConfig);
 
